@@ -1,7 +1,7 @@
 # The Security Playground
 🛠️ Working on Documentation.. 🛠️
 
-## Built a Multi-Functional Security Environment:
+## Description:
 
 ### Virtualized Environment: 
 - Utilized VMware Workstation to create a controlled and isolated testing ground.
